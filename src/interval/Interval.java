@@ -1,4 +1,4 @@
-package Interval;
+package interval;
 
 import java.time.Duration;
 

@@ -1,4 +1,4 @@
-import Interval.*;
+import interval.*;
 
 import java.time.Duration;
 

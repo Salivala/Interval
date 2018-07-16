@@ -1,4 +1,4 @@
-package Interval;
+package interval;
 
 @FunctionalInterface
 public interface TickListener {

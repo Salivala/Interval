@@ -1,4 +1,4 @@
-# Interval
+# Interval/home/hayden
 Java package that allows for easy creation of intervals with lambda support
 
 ## Functions
