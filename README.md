@@ -31,3 +31,7 @@ public class Example {
     }
 }
 ```
+
+## Current Limitations
+* Tick unit cannot be changed, so you cannot set a tick listener that will happen every 100 milliseconds, for example
+* No support for thread interaction beside from Thread superclass
